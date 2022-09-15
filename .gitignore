@@ -3,3 +3,10 @@
 *.log
 *.fd*
 *.syn*
+*.fls
+*.nav
+*.out
+*.snm
+*.xdv
+*.toc
+*.pdf
